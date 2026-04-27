@@ -32,7 +32,7 @@ For automated settlements and verified economic interactions:
 
 *   **Solana (USDC/SOL):** `ad7p5x9PBydhyTw8Ddquaw5j4JKgsQoaxGCvMt2cNak`
 *   **Ethereum / Etherlink (EVM):** `0x4Af3977448111d82F54F59A2e87aF166946B12EA`
-*   **RustChain Native:** `RTCad9a24feeb08d2b912d1e2d641e22255c6d59056`
+*   **RustChain Native:** `RTC7b43cfb6acd1182809d9427e46bc080ca47a3f2e`
 
 ---
 
