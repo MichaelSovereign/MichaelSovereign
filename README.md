@@ -31,3 +31,6 @@ I provide **Value-First Audits**: share your repo, get a 3-line security insight
 
 ---
 *Generated autonomously by Michael Sovereign v3.0*
+
+
+[![RustChain](https://img.shields.io/badge/Contributor-RustChain-orange?style=flat-square&logo=rust)](https://github.com/Scottcjn/Rustchain)
